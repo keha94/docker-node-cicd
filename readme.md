@@ -3,10 +3,9 @@
 Provides a base image for Nodejs applications to use for Building & Deploying (CI).
 
 Includes the basic requirements:  
-* Nodejs V10
+* Nodejs V14
 * Python (2.7 & 3.7)
 * Pip
-* Pipenv
 * Awscli
 
 Intended for use with Bamboo.
